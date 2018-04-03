@@ -11,19 +11,19 @@ body {
     margin: auto;
 }
 .nav1{
-    width: 1200px;
-    margin: 27px 0 27px 0;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.nav1 li {
+    display: inline-block;
+    font-size: 20px;
 }
 .nav1 li a{
     padding-left:50px;
     color: #626262;
 }
-.nav1 li a:hover,
-.nav1 li a:focus{
-    text-decoration: none;
-}
+
 .menu{
-    margin-top: 60px;
     margin-right: 10px;
 }
 .menu li {
@@ -36,9 +36,18 @@ body {
     font-size: 22px;
 }
 .logo{
-    margin: 0;
+    height: 138px;
+    line-height: 138px;
     padding: 0;
+    margin-left: 10px;
 }
-.main_nav {
-    margin-top: 70px;
+
+.row{
+    height: 138px;
+    line-height: 138px;
+}
+.out-nav{
+    width: 1200px;
+    height: 70px;
+    margin: auto; 
 }
