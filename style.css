@@ -42,7 +42,7 @@ body {
     margin-left: 10px;
 }
 
-.row{
+.row-header{
     height: 138px;
     line-height: 138px;
 }
@@ -54,3 +54,35 @@ body {
 .logo2{
     display: none;
 }
+
+.search {
+    width: 1200px;
+    height: 86px;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 15px;
+    
+}
+
+.Product_catalog {
+    font-size: 24px;
+    margin-left: 10px;
+    background-color: #b3161b;
+    padding: 14px 40px;
+    border: solid black 1px;
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+.Product_catalog:hover{
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+.search-form {
+    margin-top: 26px; 
+}
+
+

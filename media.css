@@ -18,9 +18,11 @@
         margin-left: 10px;
     }
     .meny_btn{
-        margin: 0px;
-        line-height: 110px    
-    }
+        font-size: 20px;
+        margin: 0px 10px 0px 0px;
+        padding: 0px;
+        height: 0px;
+       }
     .menu{
        background-color:  #fff;
        width: 100%;
